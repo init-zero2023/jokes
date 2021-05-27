@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MiniWebProjects/jokes/static/css/main.3fd7ae67.chunk.css",
+    "main.js": "/MiniWebProjects/jokes/static/js/main.3220af34.chunk.js",
+    "main.js.map": "/MiniWebProjects/jokes/static/js/main.3220af34.chunk.js.map",
+    "runtime-main.js": "/MiniWebProjects/jokes/static/js/runtime-main.283de2fd.js",
+    "runtime-main.js.map": "/MiniWebProjects/jokes/static/js/runtime-main.283de2fd.js.map",
+    "static/js/2.cbc5cbf0.chunk.js": "/MiniWebProjects/jokes/static/js/2.cbc5cbf0.chunk.js",
+    "static/js/2.cbc5cbf0.chunk.js.map": "/MiniWebProjects/jokes/static/js/2.cbc5cbf0.chunk.js.map",
+    "index.html": "/MiniWebProjects/jokes/index.html",
+    "static/css/main.3fd7ae67.chunk.css.map": "/MiniWebProjects/jokes/static/css/main.3fd7ae67.chunk.css.map",
+    "static/js/2.cbc5cbf0.chunk.js.LICENSE.txt": "/MiniWebProjects/jokes/static/js/2.cbc5cbf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.283de2fd.js",
+    "static/js/2.cbc5cbf0.chunk.js",
+    "static/css/main.3fd7ae67.chunk.css",
+    "static/js/main.3220af34.chunk.js"
+  ]
+}
