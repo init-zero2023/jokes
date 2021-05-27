@@ -1,6 +1,6 @@
 {
   "name": "jokes",
-  "homepage": "https://init-zero2023.github.io/MiniWebProjects/jokes",
+  "homepage": "https://init-zero2023.github.io/jokes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
